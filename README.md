@@ -1,8 +1,8 @@
-### Skills demonstarted:
+### Skills demonstrated:
 Data Processing, Data Augmentation, Convolutional Neural Networks, Transfer Learning - Feature Extraction, Transfer Learning - Fine Tuning, Classification Reports, Tensor Board, Functional API
 
 #### Libraries Used:
-(numpy, pandas, tensorflow/keras, scikit-learn & matplotlib etc...)
+(numpy, pandas, tensorflow/Keras, scikit-learn & matplotlib etc...)
 
 
 # Classifying-Grapevine-Varieties-Using-images-of-Grapevine-Leaves 
@@ -18,7 +18,7 @@ Deep learning-based classification to analyze images of grapevine leaves. We foc
 # Table of Contents [grapevine_leaves_classification.ipynb](grapevine_leaves_classification.ipynb)
 
 ## 1. Importing data
-   - ##### Importing data from kaggle
+   - ##### Importing data from Kaggle
    - ##### Unzipping the data
 
 ## 2. Data Cleaning
@@ -34,10 +34,10 @@ Deep learning-based classification to analyze images of grapevine leaves. We foc
    - ##### Visualizing typical images in the data before & after Augmentation
 
 ## 6. Setting up a baseline performance
-   - #####  Using a small convnet, setting up a baseline performance
+   - #####  Using a small convent, setting up a baseline performance
 
 ## 7. Transfer Learning
- - ### Feature Extracton With Data Augmentation
+ - ### Feature Extraction With Data Augmentation
    - ##### Freezing Convolutional Base
    - ##### Adding the Classifier Base
    - ##### Setting Up Callbacks
@@ -46,7 +46,7 @@ Deep learning-based classification to analyze images of grapevine leaves. We foc
    - ##### Generating Classification Report and Confusion Matrix on Test Dataset
 
  - ### Fine Tuning
-   - ##### Unfreezing last two layers of Convolutional Base
+   - ##### Unfreezing the last two layers of the Convolutional Base
    - ##### Adding the Classifier Base
    - ##### Setting Up Callbacks
    - ##### Compiling & Training The Model
@@ -59,11 +59,11 @@ Deep learning-based classification to analyze images of grapevine leaves. We foc
 
 ### Results
 The results were:
-- For objects correctly_classified as Ak, 95% of them had a probability greater than 0.9 of being Ak.
-- For objects correctly_classified as Ala_Idris, 84.2% of them had a probability greater than 0.9 of being Ala_Idris.
-- For objects correctly_classified as Buzgulu, 77.7% of them had a probability greater than 0.9 of being Buzgulu.
-- For objects correctly_classified as Dimnit, 76.4% of them had a probability greater than 0.9 of being Dimnit.
-- For objects correctly_classified as Nazli, 95% of them had a probability greater than 0.9 of being Nazli.
+- For objects correctly classified as Ak, 95% of them had a probability greater than 0.9 of being Ak.
+- For objects correctly classified as Ala_Idris, 84.2% of them had a probability greater than 0.9 of being Ala_Idris.
+- For objects correctly classified as Buzgulu, 77.7% of them had a probability greater than 0.9 of being Buzgulu.
+- For objects correctly classified as Dimnit, 76.4% of them had a probability greater than 0.9 of being Dimnit.
+- For objects correctly classified as Nazli, 95% of them had a probability greater than 0.9 of being Nazli.
 - 
 ### Screenshots from the notebook [grapevine_leaves_classification.ipynb](grapevine_leaves_classification.ipynb):
 ![4](results_screenshots/1.PNG)
