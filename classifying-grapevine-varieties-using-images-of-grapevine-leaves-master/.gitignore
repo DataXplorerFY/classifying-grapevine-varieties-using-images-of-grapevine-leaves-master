@@ -1,0 +1,6 @@
+weights
+weights_fine_tuning
+my_log_dir
+content
+.ipynb_checkpoints
+__pycache__
