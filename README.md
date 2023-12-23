@@ -13,9 +13,9 @@ Data Processing, Data Augmentation, Convolutional Neural Networks, Transfer Lear
 
 ### Motivation:
 Grapevines produce grapes, which are enjoyed fresh or used in various processed products. Additionally, grapevine leaves are harvested annually as a by-product. The specific species of grapevine leaves play a crucial role in determining both their price and taste.
-Deep learning-based classification to analyze images of grapevine leaves. We focused on 500 vine leaves from 5 different species, captured using a specialized self-illuminating system. This innovative approach aims to enhance our understanding of grapevine leaf characteristics for improved classification and potential applications in the agricultural automation.
+Deep learning-based classification to analyze images of grapevine leaves. We focused on 500 vine leaves from 5 different species, captured using a specialized self-illuminating system. This innovative approach aims to enhance our understanding of grapevine leaf characteristics for improved classification and potential applications in agricultural automation.
 
-# Table of Contents [grapevine_leaves_classification.ipynb](grapevine_leaves_classification.ipynb)
+# Table of Contents
 
 ## 1. Importing data
    - ##### Importing data from Kaggle
